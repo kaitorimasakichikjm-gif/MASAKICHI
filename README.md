@@ -1,2 +1,1 @@
-# MASAKICHI
-masakichi抽選
+
